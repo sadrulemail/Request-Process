@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode>
+    
+    <siteMapNode url="Default.aspx" title="Home" description="" roles="*" >
+      <siteMapNode url="Default.aspx#" title="Home" description="" roles="*" />
+      <siteMapNode url="PasswordChange.aspx" title="Change Password" description="" roles="*" target="_blank" />
+      <siteMapNode url="LogOut.aspx" title="Logout" description="" roles="*" />
+    </siteMapNode>
+    <siteMapNode url="" title="Service Request" description="" roles="*" >
+      <siteMapNode url="iBankingRequestShow.aspx" title="Goto Service Request" description="" roles="ADMIN,USER,GUEST" />
+      <siteMapNode url="RequestSearchByAccount.aspx" title="Search By Account" description="" roles="ADMIN,USER,GUEST" />
+      <siteMapNode url="SignatureVerifyPending.aspx" title="Signature Verify" description="" roles="ADMIN,USER" />
+      <siteMapNode url="iBankingRequestShowDetails.aspx" title="" description="" roles="ADMIN,USER" branch="1" dept="7" />
+    </siteMapNode>
+    <siteMapNode url="" title="iBanking" description="" roles="*" branch="1" >
+      <siteMapNode url="iBankingRequestBrowse.aspx" title="Browse All" description="" roles="USER,GUEST" branch="1" dept="7" />
+      <siteMapNode url="iBanking_Flora.aspx" title="Flora Search" Data="" description="" roles="USER,GUEST" branch="1" dept="7" />      
+      <siteMapNode url="Flora_Acc_Types.aspx" title="Flora Acc Types" Data="" description="" roles="USER,GUEST" branch="1" dept="7" />      
+    </siteMapNode>
+    <siteMapNode url="" title="SMS" description="" roles="*" branch="1" >
+      <siteMapNode url="SMS_Exclude.aspx" title="Exclude Alert" description="" roles="USER" branch="1" />
+      <siteMapNode url="SMS_Exclude_Browse.aspx" title="Browse Exclude List" description="" roles="USER,GUEST" branch="1" />
+    </siteMapNode>
+    <siteMapNode url="" title="Email" description="" roles="*" >
+      <siteMapNode url="Email_Notification.aspx" title="Email Notification" description="" roles="USER" branch="1" />
+      <siteMapNode url="Email_Statement_Send.aspx" title="Send Statement to Email" description="" roles="USER" branch="1" />
+      <siteMapNode url="Email_Statement_Map.aspx" title="eStatement Email Map" description="" roles="USER" />
+      <siteMapNode url="Email_Statement_Map_Summary.aspx" title="eStatement Email Map Summary" description="" roles="USER" branch="1" />
+    </siteMapNode>
+    
+    <siteMapNode url="" title="Admin" description="" roles="*" branch="1" >
+      <siteMapNode url="iBanking_Req_Status_Count.aspx" title="Req Status Count" Data="" description="" roles="USER" branch="1" dept="7" />
+      <siteMapNode url="iBanking_Req_Status_Count_Branch.aspx" title="Req Status Count Branch" Data="" description="" roles="USER" branch="1" dept="7" />
+      <siteMapNode url="App_Users.aspx" title="App Users" Data="" description="" roles="ADMIN,USER" branch="1" dept="7" />
+    </siteMapNode>
+    <siteMapNode url="" title="Help" description="" roles="*">
+      <siteMapNode url="https://intraweb.tblbd.com/blog/2768" title="How to use?" description="" roles="*" target='_blank' />
+      <siteMapNode url="https://intraweb.tblbd.com/AppVersion.aspx?APPID=33" title="Release Notes" description="" roles="*" target='_blank' />
+    </siteMapNode>
+    <siteMapNode url="" title="" description="" roles="*">
+      <siteMapNode url="Flora_IC_Download.aspx" title="" description="" roles="*" branch="1" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

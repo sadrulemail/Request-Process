@@ -1,0 +1,8 @@
+D:\VS2015\Request Process\BarcodeTest\bin\Debug\BarcodeTest.exe
+D:\VS2015\Request Process\BarcodeTest\bin\Debug\BarcodeTest.pdb
+D:\VS2015\Request Process\BarcodeTest\obj\x86\Debug\BarcodeTest.csprojResolveAssemblyReference.cache
+D:\VS2015\Request Process\BarcodeTest\obj\x86\Debug\BarcodeTest.Form1.resources
+D:\VS2015\Request Process\BarcodeTest\obj\x86\Debug\BarcodeTest.Properties.Resources.resources
+D:\VS2015\Request Process\BarcodeTest\obj\x86\Debug\BarcodeTest.csproj.GenerateResource.Cache
+D:\VS2015\Request Process\BarcodeTest\obj\x86\Debug\BarcodeTest.exe
+D:\VS2015\Request Process\BarcodeTest\obj\x86\Debug\BarcodeTest.pdb

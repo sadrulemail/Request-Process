@@ -1,0 +1,5 @@
+D:\VS2015\Request Process\StartUP\bin\StartUP.dll
+D:\VS2015\Request Process\StartUP\bin\StartUP.pdb
+D:\VS2015\Request Process\StartUP\obj\Debug\StartUP.csprojResolveAssemblyReference.cache
+D:\VS2015\Request Process\StartUP\obj\Debug\StartUP.dll
+D:\VS2015\Request Process\StartUP\obj\Debug\StartUP.pdb

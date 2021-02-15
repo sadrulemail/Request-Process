@@ -1,0 +1,5 @@
+D:\VS2015\Request Process\TrustBarcode\bin\Debug\TrustBarcode.dll
+D:\VS2015\Request Process\TrustBarcode\bin\Debug\TrustBarcode.pdb
+D:\VS2015\Request Process\TrustBarcode\obj\Debug\TrustBarcode.csprojResolveAssemblyReference.cache
+D:\VS2015\Request Process\TrustBarcode\obj\Debug\TrustBarcode.dll
+D:\VS2015\Request Process\TrustBarcode\obj\Debug\TrustBarcode.pdb
